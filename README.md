@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br><br>
+<span>
+  <a href="http://au.linkedin.com/in/tomaszpbednarz"><img src="https://img.shields.io/badge/Connect-0077B5?style=social&logo=linkedin"/></a>
+</span>
