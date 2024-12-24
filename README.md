@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomaszbednarz&label=Profile%20views&color=0e75b6&style=flat" alt="tomaszbednarz" /> </p>
-
-- Check my [personal page](https://tomasz.matters.today)
+- Check my [Personal Page](https://tomasz.matters.today)
 <br><br>
 <span>
   <a href="http://au.linkedin.com/in/tomaszpbednarz"><img src="https://img.shields.io/badge/Connect-0077B5?style=social&logo=linkedin"/></a>
